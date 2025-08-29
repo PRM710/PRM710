@@ -1,8 +1,5 @@
 <h1 align="center">
-  👨🏻‍💻 PRAKASH MANE HERE 
-  <span style="font-size:14px; font-weight:normal;">
-    (<a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume 😬</a>)
-  </span>
+  👨🏻‍💻 Hi 👋, I'm Praksh Mane👨🏻‍💻
 </h1>
 
 <p align="center">
