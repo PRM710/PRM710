@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prakash Mane  
 
-🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
+🚀 **Full-Stack Developer | MERN | Java | SQL | Freelancer**  
 
 - 🌱 Currently learning advanced DSA & backend frameworks  
 - 💼 Freelance experience: built secure login/admin dashboard features for clients  
@@ -22,15 +22,11 @@ VS Code, Git, GitHub, Eclipse IDE, Postman, Canva, Da Vinci Resolve, Tableau, Po
 
 ---
 
-## 📊 GitHub Stats
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRM710&show_icons=true&theme=radical)  
+## 🧩 Competitive Programming Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRM710&layout=compact&theme=radical)  
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRM710&theme=radical)  
+| LeetCode | Codeforces | CodeChef |
+|----------|------------|----------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/PRM710?theme=dark&ext=heatmap) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PRM710) | ![CodeChef Rating](https://cp-logo.vercel.app/codechef/prm412) |
 
 ---
 
