@@ -1,18 +1,22 @@
-# Hello!! Prakash Here  
+<h1 align="center">👋 Hello, I'm Prakash</h1>
+
 <p align="center">
-  <sup>Here’s my <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume</a> hehe 😉</sup><br/>
-  <sub><sup>My GitHub is like a resume itself 😅</sup></sub>
+  <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge&logo=googledrive" />
+  </a>
 </p>
 
+<h3 align="center">🚀 Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer</h3>
 
+---
 
+<p align="center">
+  🌱 Currently learning advanced DSA & backend frameworks <br/>
+  💼 Freelance experience: built secure login/admin dashboard features for clients <br/>
+  🔭 Exploring cloud technologies like AWS <br/>
+  ⚡ Fun fact: I enjoy solving coding challenges & building side projects  
+</p>
 
-🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
-
-- 🌱 Currently learning advanced DSA & backend frameworks  
-- 💼 Freelance experience: built secure login/admin dashboard features for clients  
-- 🔭 Exploring cloud technologies like AWS  
-- ⚡ Fun fact: I enjoy solving coding challenges & building side projects  
 
 ---
 
