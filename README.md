@@ -1,5 +1,5 @@
 <h1 align="center">
-  👨🏻‍💻 Hi 👋, I'm Praksh Mane👨🏻‍💻
+  Hi 👋, I'm Prakash Mane a.k.a PRM
 </h1>
 
 <p align="center">
