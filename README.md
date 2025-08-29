@@ -4,12 +4,14 @@
 
 <p align="center">
   <img src="banner.gif" alt="banner" width="100%"/></br>
-   <a href="https://leetcode.com/u/PRM710/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40" />
+  <img src="torch.gif" alt="banner" width="100%"/>
+   <a href="mailto:prakashprm710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
   <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
+  <img src="torch.gif" alt="banner" width="100%"/>
 </p>
 
 ---
