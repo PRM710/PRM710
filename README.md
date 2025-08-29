@@ -9,7 +9,7 @@
 ---
 | 🚀 **About Me** | 📄 **My Resume** |
 |-----------------|------------------|
-| 🌱 Currently learning advanced DSA & backend frameworks <br/> 💼 Freelance experience: built secure login/admin dashboard features for clients <br/> 🔭 Exploring cloud technologies like AWS <br/> ⚡ Fun fact: I enjoy solving coding challenges & building side projects | <a href="https://drive.google.com/your_resume_link" target="_blank"> <img src="scroll2.jpg" alt="Resume" width="100"/> </a> |
+| 🌱 Currently learning advanced DSA & backend frameworks <br/> 💼 Freelance experience: built secure login/admin dashboard features for clients <br/> 🔭 Exploring cloud technologies like AWS <br/> ⚡ Fun fact: I enjoy solving coding challenges & building side projects | <a href="https://drive.google.com/your_resume_link" target="_blank"> <img src="scroll2.png" alt="Resume" width="100"/> </a> |
 
 ---
 
