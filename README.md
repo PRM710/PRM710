@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="banner.gif" alt="banner" width="100%"/></br>
-  <img src="torch.gif" alt="banner" width="100%"/>
+  <img src="torch.gif" alt="banner" width="40"/>
    <a href="mailto:prakashprm710@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
