@@ -22,7 +22,7 @@ VS Code, Git, GitHub, Eclipse IDE, Postman, Canva, Da Vinci Resolve, Tableau, Po
 
 ---
 
-## 🧩 Competitive Programming Stats  
+## 🧩 Competitive Programming Stats (Beginner ik 😅)
 
 | LeetCode | Codeforces | CodeChef |
 |----------|------------|----------|
