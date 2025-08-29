@@ -3,7 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="banner.gif" alt="banner" width="100%"/>
+  <img src="banner.gif" alt="banner" width="100%"/></br>
+   <a href="https://leetcode.com/u/PRM710/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
 </p>
 
 ---
@@ -82,7 +88,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40" />
   </a>
   <span style="display:inline-block; width: 15px;"></span>
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://prakashmaneportfolio.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
   </a>
   <span style="display:inline-block; width: 15px;"></span>
