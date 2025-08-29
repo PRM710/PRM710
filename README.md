@@ -7,32 +7,10 @@
 </p>
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+| 🥱 **About Me** | 📄 **My Resume** |
+|-----------------|------------------|
+| 🎓 Recent CS in BE grad <br><br> 💻 Passionate Web / Java / Python / Fullstack Developer <br><br> 📧 Reach me on: **prakashprm710@gmail.com** <br><br> 👉 To know more ----> | <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> <img src="scroll2.png" alt="Resume" width="80"/> </a><br>(click on it) |
 
-  <!-- About Me -->
-  <div style="flex: 1; text-align: left; font-size: 14px; line-height: 1.8; padding-right: 20px;">
-    <b>🥱 About Me</b>
-    <div style="margin-top: 8px;">
-      🎓 Recent CS in BE grad <br/> 
-      💻 Passionate Web / Java / Python / Fullstack Developer <br/> 
-      📧 Reach me on: <b>prakashprm710@gmail.com</b> <br/> 
-      👉 To know more ---->
-    </div>
-  </div>
-
-  <!-- Divider (only middle line) -->
-  <div style="width: 1px; background-color: black; margin: 0 30px;"></div>
-
-  <!-- Resume -->
-  <div style="flex: 0; text-align: right;">
-    <b>My Resume</b><br/>
-    <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank">
-      <img src="scroll2.png" alt="Resume" style="width:70px; height:auto; display:block; margin-left:auto;"/>
-      (click on it)
-    </a>
-  </div>
-
-</div>
 
 ---
 
