@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello!! Prakash Here 👋  
+# Hello Prakash Here !!
 
-<sub>Here’s my [resume](https://your-resume-link.com) hehe 😉</sub>  
+<sup>Here’s my [resume](https://your-resume-link.com) hehe 😉</sup>  
 
 </div>
 <p align="center">
