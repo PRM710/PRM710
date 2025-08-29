@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prakash Mane  
 
-🚀 **Full-Stack Developer | MERN | Java | SQL | Freelancer**  
+🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
 
 - 🌱 Currently learning advanced DSA & backend frameworks  
 - 💼 Freelance experience: built secure login/admin dashboard features for clients  
@@ -12,7 +12,7 @@
 ## 🛠️ Technical Skills  
 
 **Languages:**  
-Java, Python, JavaScript, SQL, NoSQL, Kotlin, HTML5, CSS  
+Java, Python, JavaScript, SQL, NoSQL, HTML5, CSS  
 
 **Frameworks / Libraries / Technologies:**  
 React.js (with Vite), Spring Boot, Flutter, Firebase, MongoDB, Express.js, Node.js, AWS, TensorFlow, OpenCV, POSTMAN API, RDS (Relational Database Service), Render/Netlify (Cloud Deployment)  
