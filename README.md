@@ -1,14 +1,9 @@
 <div align="center">
-
-# 🦸🏼‍♂️ Hello Prakash Here !!🦸🏼‍♂️
-
-<sup>Here’s my [resume](https://your-resume-link.com) hehe 😉</sup></br>
-<sub>My github is like resume itself😅 </sub>  
-
+  # Hello!! Prakash Here 👋
+  <sup><span style="font-size:0.8em;">Here’s my <a href="YOUR_SHAREABLE_LINK">resume</a> hehe 😉</span></sup><br/>
+  <sub><span style="font-size:0.7em;">My GitHub is like resume itself 😅</span></sub>
 </div>
-<p align="center">
-  <img src="banner.gif" alt="My Gif/Logo" width="100%" />
-</p>
+
 
 
 🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
