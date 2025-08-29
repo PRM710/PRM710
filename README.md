@@ -7,9 +7,9 @@
 </p>
 
 ---
-| 🚀 **About Me** | 📄 **My Resume** |
-|-----------------|------------------|
-| 🌱 Currently learning advanced DSA & backend frameworks <br/> 💼 Freelance experience: built secure login/admin dashboard features for clients <br/> 🔭 Exploring cloud technologies like AWS <br/> ⚡ Fun fact: I enjoy solving coding challenges & building side projects | <a href="https://drive.google.com/your_resume_link" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/resume.png" alt="Resume" width="100"/> </a> |
+| 🚀 Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer | **My Resume** |
+|------------------------------------------------------------|--------------|
+| 🌱 Currently learning advanced DSA & backend frameworks <br/> 💼 Freelance experience: built secure login/admin dashboard features for clients <br/> 🔭 Exploring cloud technologies like AWS <br/> ⚡ Fun fact: I enjoy solving coding challenges & building side projects | <a href="[https://your-resume-link.com](https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link)"><img src="scroll.avif" width="80"/></a> |
 
 
 ---
