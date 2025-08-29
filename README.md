@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
   </a>
   <span style="display:inline-block; width: 15px;"></span>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/prakash-mane-546748263/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
 </p>
