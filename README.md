@@ -9,8 +9,7 @@
 ---
 | 🚀 **About Me** | 📄 **My Resume** (click on it) |
 |-----------------|-------------------------------|
-| 🌱 Currently learning advanced DSA & backend frameworks <br/> 💼 Freelance experience: built secure login/admin dashboard features for clients <br/> 🔭 Exploring cloud technologies like AWS <br/> ⚡ Fun fact: I enjoy solving coding challenges & building side projects | <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> <img src="scroll2.png" alt="Resume" style="width:100%; height:auto; display:block;"/> </a> |
-
+| 🎓 Recent CS in BE grad <br/> 💻 Passionate Web / Java / Python / Fullstack Developer <br/> 📧 Reach me on: **prakashprm710@gmail.com** <br/> 👉 To know more ----> | <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> <img src="scroll2.png" alt="Resume" style="width:100%; height:100%; display:block; object-fit:contain;"/> </a> |
 
 ---
 
