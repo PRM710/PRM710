@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prakash Mane  
 
-🚀 **Full-Stack Developer | MERN | Java | SQL | Freelancer**  
+🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
 
 - 🌱 Currently learning advanced DSA & backend frameworks  
 - 💼 Freelance experience: built secure login/admin dashboard features for clients  
