@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-  <img src="torch.gif" alt="banner" width="100%"/>
+  <img src="torch.gif" alt="banner" width="40"/>
 </p>
 
 ---
