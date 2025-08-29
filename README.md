@@ -10,28 +10,26 @@
 </p>
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- Left Box -->
-  <div style="flex: 1; padding-right: 20px;">
-    <h3 align="center">🚀 Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer</h3>  
-    <p align="center">
+<table border="1" cellspacing="0" cellpadding="10" align="center">
+  <tr>
+    <th>🚀 Full-Stack Developer</th>
+    <th>📄 My Resume</th>
+  </tr>
+  <tr>
+    <td align="center">
       🌱 Currently learning advanced DSA & backend frameworks <br/>
       💼 Freelance experience: built secure login/admin dashboard features for clients <br/>
       🔭 Exploring cloud technologies like AWS <br/>
-      ⚡ Fun fact: I enjoy solving coding challenges & building side projects  
-    </p>
-  </div>
-
-  <!-- Right Box -->
-  <div style="text-align: center; min-width: 150px;">
-    <h3>📄 My Resume</h3>
-    <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135765.png" alt="Resume" width="80"/>
-    </a>
-  </div>
-
-</div>
+      ⚡ Fun fact: I enjoy solving coding challenges & building side projects
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135765.png" alt="Resume" width="80"/><br/>
+        View Resume
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
