@@ -1,4 +1,9 @@
-<h1 align="center"> 👨🏻‍💻PRAKASH MANE HERE <span style="font-size:18px;">(My <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume 😬</a>)</span></h1>
+<h1 align="center"> 👨🏻‍💻 PRAKASH MANE HERE 
+  <sub style="font-size:12px;">
+    (My <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume 😬</a>)
+  </sub>
+</h1>
+
  
 
 <p align="center">
