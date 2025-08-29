@@ -1,4 +1,10 @@
-# Hi there 👋, I'm Prakash Mane  
+<div align="center">
+
+# Hello!! Prakash Here 👋  
+
+<sub>Here’s my [resume](https://your-resume-link.com) hehe 😉</sub>  
+
+</div>
 <p align="center">
   <img src="banner.gif" alt="My Gif/Logo" width="100%" />
 </p>
