@@ -62,8 +62,8 @@
   <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/DaVinci_Resolve-%232D2D2D.svg?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<!--   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> -->
   <img src="https://img.shields.io/badge/Aseprite-%237E57C2.svg?style=for-the-badge&logo=aseprite&logoColor=white"/>
 </p>  
 
