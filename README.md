@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Prakash Mane  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
+<p align="center">
+  <img src="banner.gif" alt="My Gif/Logo" width="300" />
+</p>
+
 
 🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
 
