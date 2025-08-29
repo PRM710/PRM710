@@ -1,9 +1,5 @@
-<h2 align="center">👋 Hi, I'm Prakash Mane</h2>  
+<h1 align="center">👋 Hi, I'm Prakash Mane</h1> (my <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume) 
 
-<p align="center">
-  <sup>Here’s my <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume</a> hehe 😉</sup><br/>
-  <sub><sup>My GitHub is like a resume itself 😅</sup></sub>
-</p>
 
 <p align="center">
   <img src="banner.gif" alt="banner" width="100%"/>
