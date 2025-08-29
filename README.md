@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Prakash Suresh Mane</h2>  
+<h2 align="center">👋 Hi, I'm Prakash Mane</h2>  
 
 <p align="center">
   <sup>Here’s my <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume</a> hehe 😉</sup><br/>
