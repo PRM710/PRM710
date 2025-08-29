@@ -7,26 +7,10 @@
 </p>
 
 ---
-<table border="1" cellspacing="0" cellpadding="10" align="center">
-  <tr>
-    <th>🚀 Full-Stack Developer</th>
-    <th>📄 My Resume</th>
-  </tr>
-  <tr>
-    <td align="center">
-      🌱 Currently learning advanced DSA & backend frameworks <br/>
-      💼 Freelance experience: built secure login/admin dashboard features for clients <br/>
-      🔭 Exploring cloud technologies like AWS <br/>
-      ⚡ Fun fact: I enjoy solving coding challenges & building side projects
-    </td>
-    <td align="center">
-      <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135765.png" alt="Resume" width="80"/><br/>
-        View Resume
-      </a>
-    </td>
-  </tr>
-</table>
+| 🚀 **About Me** | 📄 **My Resume** |
+|-----------------|------------------|
+| 🌱 Currently learning advanced DSA & backend frameworks <br/> 💼 Freelance experience: built secure login/admin dashboard features for clients <br/> 🔭 Exploring cloud technologies like AWS <br/> ⚡ Fun fact: I enjoy solving coding challenges & building side projects | <a href="https://drive.google.com/your_resume_link" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/resume.png" alt="Resume" width="100"/> </a> |
+
 
 ---
 
