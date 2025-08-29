@@ -1,8 +1,9 @@
-<div align="center">
-  # Hello!! Prakash Here 👋
-  <sup><span style="font-size:0.8em;">Here’s my <a href="YOUR_SHAREABLE_LINK">resume</a> hehe 😉</span></sup><br/>
-  <sub><span style="font-size:0.7em;">My GitHub is like resume itself 😅</span></sub>
-</div>
+# Hello!! Prakash Here  
+<p align="center">
+  <sup>Here’s my <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume</a> hehe 😉</sup><br/>
+  <sub><sup>My GitHub is like a resume itself 😅</sup></sub>
+</p>
+
 
 
 
