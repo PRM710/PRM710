@@ -2,8 +2,8 @@
 
 # 🦸🏼‍♂️ Hello Prakash Here !!🦸🏼‍♂️
 
-<sup>Here’s my [resume](https://your-resume-link.com) hehe 😉</sup></br>
-<sub>My github is like resume itself😅 </sub>  
+<sub>Here’s my [resume](https://your-resume-link.com) hehe 😉</sub></br>
+<sup>My github is like resume itself😅 </sup>  
 
 </div>
 <p align="center">
