@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prakash Mane  
 <p align="center">
-  <img src="banner.gif" alt="My Gif/Logo" width="300" />
+  <img src="banner.gif" alt="My Gif/Logo" width="100%" />
 </p>
 
 
