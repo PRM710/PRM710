@@ -7,9 +7,17 @@
 </p>
 
 ---
-| 🥱**About Me** | **My Resume**  |
-|-----------------|-------------------------------|
-| <div style="line-height:1.8; font-size:14px; padding:8px 0;"> 🎓 Recent CS in BE grad <br/> 💻 Passionate Web / Java / Python / Fullstack Developer <br/> 📧 Reach me on: **prakashprm710@gmail.com** <br/> 👉 To know more ----> </div> | <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> <img src="scroll2.png" alt="Resume" style="width:70px; height:auto; display:block; margin:auto;"/> </br>(click on it)</a> |
+| 🥱 **About Me** | **My Resume** |
+|-----------------|----------------|
+| <div style="line-height:1.8; font-size:14px; padding:8px 0;"> 
+🎓 Recent CS in BE grad <br/> 
+💻 Passionate Web / Java / Python / Fullstack Developer <br/> 
+📧 Reach me on: **prakashprm710@gmail.com** <br/> 
+👉 To know more ----> 
+</div> | <div style="text-align:right;"> 
+<a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> 
+<img src="scroll2.png" alt="Resume" style="width:70px; height:auto;"/> 
+</a> <br/> (click on it) </div> |
 ---
 
 # ⚡ Tech Stack  
