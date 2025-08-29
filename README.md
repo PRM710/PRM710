@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Prakash Mane  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
 
 🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
 
@@ -24,9 +25,9 @@ VS Code, Git, GitHub, Eclipse IDE, Postman, Canva, Da Vinci Resolve, Tableau, Po
 
 ## 🧩 Competitive Programming Stats (Beginner ik 😅)
 
-| LeetCode | Codeforces | CodeChef |
-|----------|------------|----------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/PRM710?theme=dark&ext=heatmap) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PRM710) | ![CodeChef Rating](https://cp-logo.vercel.app/codechef/prm412) |
+| LeetCode | Codeforces |
+|----------|------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/PRM710?theme=dark&ext=heatmap) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PRM710) |
 
 ---
 
