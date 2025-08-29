@@ -1,4 +1,4 @@
-# Hello!! Prakash Here  
+<h2 align="center">👋 Hi, I'm Prakash Suresh Mane</h2>  
 
 <p align="center">
   <sup>Here’s my <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link">resume</a> hehe 😉</sup><br/>
@@ -10,13 +10,16 @@
 </p>
 
 ---
+<h3 align="center">🚀 Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer</h3>  
 
-🚀 **Full-Stack Developer | MERN | Java | SQL/NoSQL | Freelancer**  
+---
 
-- 🌱 Currently learning advanced DSA & backend frameworks  
-- 💼 Freelance experience: built secure login/admin dashboard features for clients  
-- 🔭 Exploring cloud technologies like AWS  
-- ⚡ Fun fact: I enjoy solving coding challenges & building side projects  
+<p align="center">
+  🌱 Currently learning advanced DSA & backend frameworks <br/>
+  💼 Freelance experience: built secure login/admin dashboard features for clients <br/>
+  🔭 Exploring cloud technologies like AWS <br/>
+  ⚡ Fun fact: I enjoy solving coding challenges & building side projects  
+</p>
 
 
 
