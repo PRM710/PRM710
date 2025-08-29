@@ -8,7 +8,7 @@
    <a href="mailto:prakashprm710@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/prakash-mane-546748263/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
   <img src="torch.gif" alt="banner" width="40"/>
