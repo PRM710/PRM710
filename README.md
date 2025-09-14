@@ -15,10 +15,10 @@
 </p>
 
 ---
-| 🥱 **About Me** | 📄 **My Resume** |
-|-----------------|------------------|
-| 🎓 Recent CS in B.E grad <br><br> 🧐Try to Learn new things everyday<br><br> 💻 Passionate Web / Java / Python / Fullstack Developer <br><br> 📧 Reach me on: **prakashprm710@gmail.com** <br><br> 👉 To know more ----> | <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> <img src="scroll2.png" alt="Resume" width="80"/> </a><br>(click on it) |
-
+| 🥱 **About Me** | 📄 **My Resume** | 🟩 **My GitHub Contributions** |
+|-----------------|------------------|-------------------------------|
+| 🎓 Recent CS in B.E grad <br><br> 🧐 Try to Learn new things everyday <br><br> 💻 Passionate Web / Java / Python / Fullstack Developer <br><br> 📧 Reach me on: **prakashprm710@gmail.com** <br><br> 👉 To know more ----> | <a href="https://drive.google.com/drive/folders/1OglDrlnuIiFicdSWU3YQK2DZNegZ8bK_?usp=drive_link" target="_blank"> <img src="scroll2.png" alt="Resume" width="80"/> </a><br>(click on it) | <img src="https://ghchart.rshah.org/PRM710" alt="GitHub Contributions" /> |
+---
 
 ---
 
