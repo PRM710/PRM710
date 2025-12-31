@@ -17,18 +17,13 @@
 ## 🟩 My GitHub Contributions
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PRM710&theme=github-dark&hide_border=true" 
-    width="800"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRM710&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PRM710&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&theme=dark&hide_border=true&custom_title=Contributions%20%26%20Stats" 
-    width="400"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRM710&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&theme=dark&hide_border=true&custom_title=Contributions%20%26%20Stats" />
 </p>
+
 
 
 
