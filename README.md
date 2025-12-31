@@ -31,7 +31,7 @@
 # ⚡ Tech Stack  
 
 ### 💻 Languages  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> -->
@@ -40,7 +40,7 @@
 </p>  
 
 ### ⚙️ Frameworks / Libraries / Technologies  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -49,7 +49,7 @@
 </p>  
 
 ### 🤖 AI / LLM  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG%20Systems-%23007ACC.svg?style=for-the-badge"/>
@@ -59,7 +59,7 @@
 </p>  
 
 ### 🗄️ Databases & Cloud  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -68,7 +68,7 @@
 </p>  
 
 ### 🛠️ Tools  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
