@@ -14,9 +14,22 @@
   <img src="torch.gif" alt="banner" width="40"/>
 </p>
 
-| 🥱 **About Me**                                                                                                                                                                                                                | 🟩 **My GitHub Contributions**                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🎓 Recent CS in B.E grad <br><br> 🧐 Try to learn new things every day <br><br> 💻 Passionate Web / Java / Python / Fullstack Developer <br><br> 📧 Reach me on: **[prakashprm710@gmail.com](mailto:prakashprm710@gmail.com)** | <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRM710&theme=github-dark&hide_border=true" width="350"/> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=PRM710&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&theme=dark&hide_border=true&custom_title=Contributions%20%26%20Stats" width="350"/> |
+## 🟩 My GitHub Contributions
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PRM710&theme=github-dark&hide_border=true" 
+    width="800"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PRM710&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&theme=dark&hide_border=true&custom_title=Contributions%20%26%20Stats" 
+    width="400"
+  />
+</p>
+
 
 
 
